@@ -1,20 +1,15 @@
 ## 2025 ACADEMIC YEAR 
 
-| IITJEE \- B2 \- C11 |  |  |
-| ----- | :---- | :---- |
-| 01 | SKANDAESH |  |
-| 02 | ~~DIYA~~ |  |
-| 03 | ROSHINI |  |
-| 04 | ARFINKAMAL |  |
+|    |  IITJEE \- B2 \- C11|      
+| -- | :-----------------: | 
+| 01 | SKANDAESH |
+| 02 | ~~DIYA~~ |
+| 03 | ROSHINI |
+| 04 | ARFINKAMAL |
 
-
-| IITJEE \- A1 \- C10 |  |  |
-| ----- | :---- | :---- |
-| 01 | SKANDAESH |  |
-| 02 | ~~DIYA~~ |  |
-| 03 | ROSHINI |  |
-| 04 | ARFINKAMAL |  |
-
+|    |  IITJEE \- B2 \- C11|   
+| -- | :-----------------: | 
+| 01 | ASHWATH |
 
 ## ADMIN TRAINING SESSION - SKILL STATION 
 
