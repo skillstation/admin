@@ -1,34 +1,20 @@
 ## 2025 ACADEMIC YEAR 
 
-| A  |  IITJEE \- A1 \- C10|   
+[Lead Sheet Feb 2025](https://docs.google.com/spreadsheets/d/126IiNOcW2TH9hPT_Xye7feBFNoM1kE7deBm9-gkttG8)
+
+| A  |  IITJEE \- FOUNDATION \- C10|   
 | -- | :----------------:  | 
 | 01 | ASHWATH             |
 
-| B |  IITJEE \- B2 \- C11 |      
+| B |  IITJEE \- REGULAR \- C12 |      
 | -- | :-----------------: | 
 | 01 | SKANDAESH           |
-| 02 | ~~DIYA~~            |
-| 03 | ROSHINI             |
-| 04 | ARFINKAMAL          |
+| 02 | ARFINKAMAL          |
 
-| C  |  EMAT - VIT         |   
-| -- | :-----------------: | 
-| 01 | AVANESH             |
+| C  |  CBSE-SCI-MAT \- C10|   
+| -- | :----------------:  | 
+| 00 |              |
 
-| D  |  BCA - TUITIONS     |   
-| -- | :-----------------: | 
-| 01 | LAKSHMANAN          |
-
-| E  |  IGCSE - C12      |   
-| -- | :---------------: | 
-| 01 | PRATHIBA          |
-
-| F  |  NEET - PHY       |   
-| -- | :---------------: | 
-| 01 | ATHULIYAN         |
-
-## ADMIN TRAINING SESSION - SKILL STATION 
-
-Wed 23 Oct 2024
+## ADMIN TRAINING SESSION - VIDEOS
 
 ▶️ [How to Create a Github Course Page?](https://youtu.be/wn_yz1gO6lo)
