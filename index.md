@@ -43,4 +43,4 @@
 
 ## ADMIN TRAINING SESSION - VIDEOS
 
-▶️ [How to Create a Github Course Page?](https://youtu.be/wn_yz1gO6lo)
+▶️ [How to Create a Github Course Page?](https://youtu.be/wn_yz1gO6lo) (for Student Mentors)
