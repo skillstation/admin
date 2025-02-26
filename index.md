@@ -31,6 +31,12 @@
 | 01 | SKANDAESH           |
 | 02 | ARFINKAMAL          |
 
+[CBSE-BRIDGE-COURSE-PHYSICS-FOR-NEET-ASPIRANTS](https://docs.google.com/spreadsheets/d/1_oon5PPKLjbycwnK7T12-Ow58Wb_diMBDD_MCGcFxXs/edit?gid=0#gid=0)
+
+[EMAT-VIT-CVLA-DET-AVANESH](https://docs.google.com/spreadsheets/d/1SfGbstA-clR4Y32I66niS7sin8Mjdw4rqa3Rjsvt9Iw/edit?gid=1340204163#gid=1340204163)
+
+[IGCSE-PHY-MAT-IT-PRATHIBA](https://docs.google.com/spreadsheets/d/1GlCpRSJMBM7BnzPLUSDh2_CB7iFHd3u0vxUjGOEAN4I/edit?gid=0#gid=0)
+
 ## ADMIN TRAINING SESSION - VIDEOS
 
 ▶️ [How to Create a Github Course Page?](https://youtu.be/wn_yz1gO6lo)
