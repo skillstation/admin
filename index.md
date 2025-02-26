@@ -37,6 +37,10 @@
 
 [IGCSE-PHY-MAT-IT-PRATHIBA](https://docs.google.com/spreadsheets/d/1GlCpRSJMBM7BnzPLUSDh2_CB7iFHd3u0vxUjGOEAN4I/edit?gid=0#gid=0)
 
+[BCA-TUITIONS-SE-DATA-SCI-ELANGO]()
+
+[BCA-TUITIONS-IOT-CC-JEEVLIN]()
+
 ## ADMIN TRAINING SESSION - VIDEOS
 
 ▶️ [How to Create a Github Course Page?](https://youtu.be/wn_yz1gO6lo)
