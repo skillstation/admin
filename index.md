@@ -41,7 +41,7 @@
 
 [SE✅✅✅✅🟡🟡🟡🟡](https://docs.google.com/spreadsheets/d/1CRtOfhOfigTTOe3h_IfOhaURcFGBw0PNk92AZ8N3jO4/edit?gid=0#gid=0)
 
-[DATA-SCI-✅✅⭕⭕⭕⭕⭕⭕]((https://docs.google.com/spreadsheets/d/1eIPKxsRLH85ptp4BnFOkLi0z9H2jJ4DwBAsZRgWad4I/edit?gid=0#gid=0))
+[DATA-SCI-✅✅⭕⭕⭕⭕⭕⭕](https://docs.google.com/spreadsheets/d/1eIPKxsRLH85ptp4BnFOkLi0z9H2jJ4DwBAsZRgWad4I/edit?gid=0#gid=0)
 
 [BCA-TUITIONS-IOT-CC-JEEVLIN]()
 
