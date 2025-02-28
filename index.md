@@ -37,7 +37,7 @@
 
 [IGCSE-PHY-MAT-IT-PRATHIBA](https://docs.google.com/spreadsheets/d/1GlCpRSJMBM7BnzPLUSDh2_CB7iFHd3u0vxUjGOEAN4I/edit?gid=0#gid=0)
 
-[BCA-TUITIONS-SE-DATA-SCI-ELANGO]()
+BCA-TUITIONS-[SE](https://docs.google.com/spreadsheets/d/1CRtOfhOfigTTOe3h_IfOhaURcFGBw0PNk92AZ8N3jO4/edit?gid=0#gid=0)-[DATA-SCI](https://docs.google.com/spreadsheets/d/1eIPKxsRLH85ptp4BnFOkLi0z9H2jJ4DwBAsZRgWad4I/edit?gid=0#gid=0)-ELANGO
 
 [BCA-TUITIONS-IOT-CC-JEEVLIN]()
 
