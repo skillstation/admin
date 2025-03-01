@@ -49,7 +49,7 @@
 
 **CBSE-BRIDGE-COURSE-PHYSICS-FOR-NEET-ASPIRANTS**
 
-[1-NEET-PHY]((https://docs.google.com/spreadsheets/d/1_oon5PPKLjbycwnK7T12-Ow58Wb_diMBDD_MCGcFxXs/edit?gid=0#gid=0))
+[1-NEET-PHY](https://docs.google.com/spreadsheets/d/1_oon5PPKLjbycwnK7T12-Ow58Wb_diMBDD_MCGcFxXs/edit?gid=0#gid=0)
 
 **EMAT-VIT-CVLA-DET-AVANESH**
 
