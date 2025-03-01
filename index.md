@@ -31,19 +31,49 @@
 | 01 | SKANDAESH           |
 | 02 | ARFINKAMAL          |
 
-[CBSE-BRIDGE-COURSE-PHYSICS-FOR-NEET-ASPIRANTS](https://docs.google.com/spreadsheets/d/1_oon5PPKLjbycwnK7T12-Ow58Wb_diMBDD_MCGcFxXs/edit?gid=0#gid=0)
+**IITJEE \- FOUNDATION \- C10**
 
-[EMAT-VIT-CVLA-DET-AVANESH](https://docs.google.com/spreadsheets/d/1SfGbstA-clR4Y32I66niS7sin8Mjdw4rqa3Rjsvt9Iw/edit?gid=1340204163#gid=1340204163)
+[1-PHYSICS]()
 
-[**IGCSE-PHY-MAT-IT-PRATHIBA**✅✅✅🟡🟡🟡🟡🟡](https://docs.google.com/spreadsheets/d/1GlCpRSJMBM7BnzPLUSDh2_CB7iFHd3u0vxUjGOEAN4I/edit?gid=0#gid=0)
+[2-MATHS]()
+
+[3-CHEMISTRY]()
+
+**IITJEE \- REGULAR \- C12**
+
+[1-PHYSICS]()
+
+[2-MATHS]()
+
+[3-CHEMISTRY]()
+
+**CBSE-BRIDGE-COURSE-PHYSICS-FOR-NEET-ASPIRANTS**
+
+[1-NEET-PHY]((https://docs.google.com/spreadsheets/d/1_oon5PPKLjbycwnK7T12-Ow58Wb_diMBDD_MCGcFxXs/edit?gid=0#gid=0))
+
+**EMAT-VIT-CVLA-DET-AVANESH**
+
+[1-EMAT-DET](https://docs.google.com/spreadsheets/d/1SfGbstA-clR4Y32I66niS7sin8Mjdw4rqa3Rjsvt9Iw/edit?gid=1340204163#gid=1340204163)
+
+[2-EMAT-DET](https://docs.google.com/spreadsheets/d/1SfGbstA-clR4Y32I66niS7sin8Mjdw4rqa3Rjsvt9Iw/edit?gid=1340204163#gid=1340204163)
+
+**IGCSE-PHY-MAT-IT-PRATHIBA**✅✅✅🟡🟡🟡🟡🟡
+
+[1-PHYSICS](https://docs.google.com/spreadsheets/d/1GlCpRSJMBM7BnzPLUSDh2_CB7iFHd3u0vxUjGOEAN4I/edit?gid=0#gid=0)
+
+[2-MATHS](https://docs.google.com/spreadsheets/d/1GlCpRSJMBM7BnzPLUSDh2_CB7iFHd3u0vxUjGOEAN4I/edit?gid=0#gid=0)
+
+[3-IT](https://docs.google.com/spreadsheets/d/1GlCpRSJMBM7BnzPLUSDh2_CB7iFHd3u0vxUjGOEAN4I/edit?gid=0#gid=0)
 
 **BCA-TUITIONS-SE-DATA-SCI-ELANGO**
 
-[SE✅✅✅✅🟡🟡🟡🟡](https://docs.google.com/spreadsheets/d/1CRtOfhOfigTTOe3h_IfOhaURcFGBw0PNk92AZ8N3jO4/edit?gid=0#gid=0)
+[1-SE✅✅✅✅🟡🟡🟡🟡](https://docs.google.com/spreadsheets/d/1CRtOfhOfigTTOe3h_IfOhaURcFGBw0PNk92AZ8N3jO4/edit?gid=0#gid=0)
 
-[DATA-SCI-✅✅⭕⭕⭕⭕⭕⭕](https://docs.google.com/spreadsheets/d/1eIPKxsRLH85ptp4BnFOkLi0z9H2jJ4DwBAsZRgWad4I/edit?gid=0#gid=0)
+[2-DATA-SCI-✅✅⭕⭕⭕⭕⭕⭕](https://docs.google.com/spreadsheets/d/1eIPKxsRLH85ptp4BnFOkLi0z9H2jJ4DwBAsZRgWad4I/edit?gid=0#gid=0)
 
-[BCA-TUITIONS-IOT-CC-JEEVLIN]()
+[3-BCA-TUITIONS-IOT-JEEVLIN]()
+
+[4-BCA-TUITIONS-IOT-CC-JEEVLIN]()
 
 ## ADMIN TRAINING SESSION - VIDEOS
 
