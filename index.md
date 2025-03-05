@@ -71,9 +71,9 @@
 
 [2-DATA-SCI-✅✅⭕⭕⭕⭕⭕⭕](https://docs.google.com/spreadsheets/d/1eIPKxsRLH85ptp4BnFOkLi0z9H2jJ4DwBAsZRgWad4I/edit?gid=0#gid=0)
 
-[3-BCA-TUITIONS-IOT-JEEVLIN]()
+[3-BCA-TUITIONS-IOT-JEEVLIN](https://docs.google.com/spreadsheets/d/1q1StsdZJGJ-wMidQ2uHuVhbZEauFcipqhVQj_i3iTHc/edit?usp=sharing)
 
-[4-BCA-TUITIONS-IOT-CC-JEEVLIN]()
+[4-BCA-TUITIONS-IOT-CC-JEEVLIN](https://docs.google.com/spreadsheets/d/10kfoFLhf61kmkZ9JjUllVJ68nRKm87Z4S2AgEElelYM/edit?usp=sharing)
 
 ## ADMIN TRAINING SESSION - VIDEOS
 
