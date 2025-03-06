@@ -4,6 +4,10 @@
 
 [Worklog-Swarna](https://docs.google.com/spreadsheets/d/14vCjoVoGxSsltbT8CrLvAfsJLjgp9XhkahDwZj7wOvc/edit?gid=0#gid=0)
 
+[Worklog-Logesh](https://docs.google.com/spreadsheets/d/10racHax9T_XT3Ng63xZfoVRe_v0duMRIYWm8GRgQuuE/edit?gid=0#gid=0)
+
+[Worklog-Rakkas]()
+
 | A  |  IITJEE \- FOUNDATION \- C10|   
 | -- | :----------------:  | 
 | 01 | ASHWATH             |
