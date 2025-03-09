@@ -84,3 +84,4 @@
 ## ADMIN TRAINING SESSION - VIDEOS
 
 ▶️ [How to Create a Github Course Page?](https://youtu.be/wn_yz1gO6lo) (for Student Mentors)
+▶️ [How to Create, Edit and Update Student Progress Report? • How to Upload Notes and Video to Drive and Share Link?](https://youtu.be/b4WJ-5OIg_w)
