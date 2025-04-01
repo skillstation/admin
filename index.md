@@ -6,6 +6,8 @@
 
 [Worklog-Logesh](https://docs.google.com/spreadsheets/d/10racHax9T_XT3Ng63xZfoVRe_v0duMRIYWm8GRgQuuE/edit?gid=0#gid=0)
 
+[Worklog-SaiLikith](https://docs.google.com/spreadsheets/d/1hwdz5xVRqm_k7jDQTVw2YcChMdNHTOAQ3lNqhJxh-5E/edit?gid=0#gid=0)
+
 [Worklog-Rakkas]()
 
 | A  |  IITJEE \- FOUNDATION \- C10|   
@@ -72,6 +74,8 @@
 [3-IT](https://docs.google.com/spreadsheets/d/1GlCpRSJMBM7BnzPLUSDh2_CB7iFHd3u0vxUjGOEAN4I/edit?gid=0#gid=0)
 
 **BCA-TUITIONS-SE-DATA-SCI-ELANGO**
+
+[SS-PRACTICALS-PROJECT-TRAINING](https://docs.google.com/spreadsheets/d/1UnI5NoHJinNmZTJs9HP1KekqQVem3V21e94YtQhlN8g/edit?usp=sharing)
 
 [1-SE✅✅✅✅🟡🟡🟡🟡](https://docs.google.com/spreadsheets/d/1CRtOfhOfigTTOe3h_IfOhaURcFGBw0PNk92AZ8N3jO4/edit?gid=0#gid=0)
 
