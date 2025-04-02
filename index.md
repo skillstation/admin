@@ -12,7 +12,13 @@
 
 [Worklog-Rakkas]()
 
-| A  |  IITJEE \- FOUNDATION \- C10|   
+[IITJEE-X-SCHEDULE-OF-CLASSES](https://docs.google.com/spreadsheets/d/1aF3yUrHTYF9l2zveEBismuHfLLv1KsR_HYqJZbTff7E/edit?usp=sharing)
+
+[IITJEE-XI-SCHEDULE-OF-CLASSES]()
+
+[IITJEE-XII-SCHEDULE-OF-CLASSES]()
+
+| A  |  IITJEE \- FOUNDATION \- C10 |   
 | -- | :----------------:  | 
 | 01 | ASHWATH             |
 | 02 | |
