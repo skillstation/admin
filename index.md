@@ -57,6 +57,9 @@
 
 [3-CHEMISTRY]()
 
+**ALGORITHMIC THINKING-VARUNA-CODING-CHALLENGE**
+[01-VARUNA-REPORT](https://docs.google.com/document/d/1egePuRC7RQHzS0G6Safl0aegd5JV5308oNpbvUj0OJI/edit?usp=sharing)
+
 **CBSE-BRIDGE-COURSE-PHYSICS-FOR-NEET-ASPIRANTS**
 
 [1-NEET-PHY](https://docs.google.com/spreadsheets/d/1_oon5PPKLjbycwnK7T12-Ow58Wb_diMBDD_MCGcFxXs/edit?gid=0#gid=0)
