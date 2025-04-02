@@ -77,7 +77,7 @@
 
 **BCA-TUITIONS-SE-DATA-SCI-ELANGO**
 
-[SS-PRACTICALS-PROJECT-TRAINING](https://docs.google.com/spreadsheets/d/1UnI5NoHJinNmZTJs9HP1KekqQVem3V21e94YtQhlN8g/edit?usp=sharing)
+[SS-UML-PRACTICALS-PROJECT-TRAINING](https://docs.google.com/spreadsheets/d/1UnI5NoHJinNmZTJs9HP1KekqQVem3V21e94YtQhlN8g/edit?usp=sharing)
 
 [1-SE✅✅✅✅🟡🟡🟡🟡](https://docs.google.com/spreadsheets/d/1CRtOfhOfigTTOe3h_IfOhaURcFGBw0PNk92AZ8N3jO4/edit?gid=0#gid=0)
 
