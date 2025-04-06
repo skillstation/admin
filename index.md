@@ -10,7 +10,7 @@
 
 [Worklog-SaiLikith](https://docs.google.com/spreadsheets/d/1hwdz5xVRqm_k7jDQTVw2YcChMdNHTOAQ3lNqhJxh-5E/edit?gid=0#gid=0)
 
-[Worklog-Rakkas]()
+[Worklog-Rakkas](https://docs.google.com/spreadsheets/d/1jBzhGC4I4Hr64Ulcx3CEIM2pSW0dRZSuRQBZHz5m2iM/edit?gid=0#gid=0)
 
 [IITJEE-X-SCHEDULE-OF-CLASSES](https://docs.google.com/spreadsheets/d/1aF3yUrHTYF9l2zveEBismuHfLLv1KsR_HYqJZbTff7E/edit?usp=sharing)
 
